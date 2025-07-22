@@ -282,6 +282,13 @@ body {
     }
 }
 
+#clock {
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+    margin-top: 5px;
+}
+
 .temperature {
     font-size: 4rem;
     font-weight: 800;
